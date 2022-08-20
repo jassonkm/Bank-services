@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WPOSS BANK</string>
+    <string name="main_tittle">Welcome to Wposs Bank </string>
+    <string name="main_btnsign">Sign up</string>
+    <string name="main_btnlogin">Login</string>
+    <string name="sign_tittle">Welcome to the registration system</string>
+    <string name="sign_name">Enter your name</string>
+    <string name="sign_id">Enter your identification</string>
+    <string name="sign_email">Enter your email</string>
+    <string name="sign_pass">Enter your password</string>
+    <string name="sign_btn_s">Sign up</string>
+    <string name="btn_login">login</string>
+    <string name="btn_oper_w">withdrawal</string>
+    <string name="btn_oper_t">transfer</string>
+    <string name="btn_scan">Scan a code</string>
+    <string name="btn_transfe">Transfer</string>
+    <string name="login_tittle">Welcome to the login system</string>
+    <string name="textFrag">Welcome to the transfer system</string>
+    <string name="textCod">Scan the code of the account to be transferred</string>
+    <string name="textBill">Or enter an account number</string>
+    <string name="textBillAmount">please enter an amount</string>
+    <string name="textRetire">Confirmation</string>
+
+</resources>
